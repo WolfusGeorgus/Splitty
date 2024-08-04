@@ -1,0 +1,2 @@
+# Splitty
+Money Splitting App
